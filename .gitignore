@@ -1,0 +1,17 @@
+.env
+.env.*
+node_modules/
+dist/
+build/
+coverage/
+*.log
+memory/
+tmp/
+reports/raw/
+private/
+*.zip
+*.mp4
+*.mov
+*.key
+*.pem
+
