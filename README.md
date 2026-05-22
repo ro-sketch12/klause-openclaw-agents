@@ -22,13 +22,13 @@ Siehe [docs/architecture.md](./docs/architecture.md).
 
 Siehe [docs/workflow.md](./docs/workflow.md).
 
-## Für Reviewer
+## Schneller Einstieg
 
-Siehe [docs/reviewer-guide.md](./docs/reviewer-guide.md) für den schnellen Prüfpfad.
+Siehe [docs/quick-review.md](./docs/quick-review.md) für den schnellen Überblick.
 
-## Public-safe Code-Proof
+## Ausführbarer Code-Auszug
 
-Dieses Repo enthält keinen vollständigen Agenten- oder Plattformcode. Der kleine Code-Kern zeigt aber die öffentlich sichere Kontrolllogik eines Agenten-Setups:
+Dieses Repo enthält keinen vollständigen Agenten- oder Plattformcode. Der kleine Code-Auszug zeigt aber die öffentlich sichere Kontrolllogik eines Agenten-Setups:
 
 - `src/agent-control.mjs`: Rollenwahl, synthetische Pipeline, Review-Checks und Stop/Go-Gate
 - `test/agent-control.test.mjs`: Tests dafür, dass externe Aktionen ohne Review und menschliche Freigabe blockiert bleiben
@@ -37,7 +37,7 @@ Lokal prüfen:
 
 ```bash
 npm test
-python3 scripts/public_safety_scan.py
+python3 scripts/check_public_content.py
 ```
 
 Der Code nutzt nur synthetische Tasks. Nicht enthalten sind Accountdaten, Plattform-APIs, Credentials, Runtime-Logs, Agent-Memory oder echte Listing-/Shop-Daten.
@@ -49,7 +49,7 @@ Der Code nutzt nur synthetische Tasks. Nicht enthalten sind Accountdaten, Plattf
 - Stop/Go-Gates
 - Review-/Blocker-Prinzip
 - synthetische Beispielspur
-- reduzierter, ausführbarer Code-Kern für Rollen, Reviews und Freigaben
+- reduzierter, ausführbarer Code-Auszug für Rollen, Reviews und Freigaben
 
 ## Was bewusst nicht öffentlich ist
 

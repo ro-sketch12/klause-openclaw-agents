@@ -1,6 +1,6 @@
 # Evidence Map · Klause/OpenClaw
 
-Quelle: siehe `github-public-proof/evidence/klause-openclaw-evidence-map.md` in der Arbeitskopie.
+Diese Übersicht fasst zusammen, welche Aussagen öffentlich gezeigt werden und welche Teile bewusst privat bleiben.
 
 | Öffentliche Aussage | Belegart | Öffentliche Darstellung |
 | --- | --- | --- |
@@ -10,5 +10,5 @@ Quelle: siehe `github-public-proof/evidence/klause-openclaw-evidence-map.md` in 
 | Risk/IP-Guard blockiert riskante Items | IP Compliance Guard | Review-Gate |
 | Feedback Loop nutzt Ergebnissignale | Winner-Loop-Workflow | Feedback-Schleife |
 | Externe Aktionen hängen an Config/Freigabe | Reports und Workflows mit Blocker-Status | Stop/Go-Gate |
-| Kontrolllogik ist reduziert prüfbar | Public-safe Nachbau ohne Plattform-API, Credentials oder Runtime-Daten | `src/agent-control.mjs` + Tests |
-| Repo ist schnell reviewbar | kuratierte Review-Führung | `docs/reviewer-guide.md` |
+| Kontrolllogik ist reduziert prüfbar | Öffentlicher Nachbau ohne Plattform-API, Credentials oder Runtime-Daten | `src/agent-control.mjs` + Tests |
+| Repo ist schnell lesbar | kuratierte Schnellübersicht | `docs/quick-review.md` |

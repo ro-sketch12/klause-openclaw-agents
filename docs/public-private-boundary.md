@@ -31,5 +31,4 @@ Nicht verwenden:
 - “autonome Firma” ohne Einordnung
 - “vollautomatisch”
 - “24/7 zuverlässig”
-- Umsatzclaim ohne belegbare, public-safe Quelle
-
+- Umsatzclaim ohne belegbare öffentliche Quelle

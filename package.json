@@ -1,11 +1,10 @@
 {
-  "name": "klause-openclaw-agents-public-proof",
+  "name": "klause-openclaw-agents",
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "Public-safe control-gate proof for the Klause/OpenClaw agent workflow.",
+  "description": "Reduced control-gate logic for the Klause/OpenClaw agent workflow.",
   "scripts": {
     "test": "node --test test/*.test.mjs"
   }
 }
-

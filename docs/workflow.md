@@ -30,11 +30,10 @@ sequenceDiagram
 
 ## Warum das relevant ist
 
-Der Proof liegt nicht darin, dass Agenten “magisch” handeln. Der Proof liegt darin, dass Robert verstanden hat, wie Agentenarbeit kontrollierbar wird:
+Der relevante Punkt ist nicht, dass Agenten “magisch” handeln. Entscheidend ist, dass Agentenarbeit kontrollierbar wird:
 
 - Rollen trennen
 - Status sichtbar machen
 - Risiken früh blockieren
 - externe Schritte nicht blind auslösen
 - aus Feedback neue Prioritäten ableiten
-
