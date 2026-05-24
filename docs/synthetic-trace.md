@@ -1,4 +1,4 @@
-# Synthetische Beispielspur · Klause/OpenClaw
+# Synthetische Beispielspur · Klause / OpenClaw
 
 Diese Spur ist synthetisch. Sie zeigt die Logik, nicht echte Laufzeitdaten.
 
@@ -12,4 +12,3 @@ Diese Spur ist synthetisch. Sie zeigt die Logik, nicht echte Laufzeitdaten.
 | Orchestrator | next_action | Entwurf verbessern, dann erneut prüfen |
 
 Kern: Der externe Schritt bleibt blockiert, obwohl mehrere Agenten vorbereitend gearbeitet haben.
-

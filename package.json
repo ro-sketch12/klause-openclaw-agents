@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "Reduced control-gate logic for the Klause/OpenClaw agent workflow.",
+  "description": "Reduced control-gate logic for the Klause / OpenClaw agent workflow.",
   "scripts": {
     "test": "node --test test/*.test.mjs"
   }

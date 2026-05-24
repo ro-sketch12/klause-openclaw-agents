@@ -1,4 +1,4 @@
-# Schneller Überblick · Klause/OpenClaw
+# Schneller Überblick · Klause / OpenClaw
 
 ## In 60 Sekunden prüfen
 
@@ -10,7 +10,7 @@
 
 ## Was diese Arbeitsprobe zeigen soll
 
-Klause/OpenClaw zeigt, dass Agentenarbeit nicht als Blackbox gedacht wurde, sondern als kontrollierter Ablauf mit Rollen, Review-Gates, Blockern und menschlicher Freigabe.
+Klause / OpenClaw zeigt, dass Agentenarbeit nicht als Blackbox gedacht wurde, sondern als kontrollierter Ablauf mit Rollen, Review-Gates, Blockern und menschlicher Freigabe.
 
 ## Was diese Arbeitsprobe nicht zeigen soll
 

@@ -1,4 +1,4 @@
-# Public/Private Boundary · Klause/OpenClaw
+# Public/Private Boundary · Klause / OpenClaw
 
 ## Öffentlich
 
@@ -29,6 +29,6 @@ Gut:
 Nicht verwenden:
 
 - “autonome Firma” ohne Einordnung
-- “vollautomatisch”
+- Autonomie-Claims ohne klare Freigabegrenzen
 - “24/7 zuverlässig”
-- Umsatzclaim ohne belegbare öffentliche Quelle
+- Geschäftsergebnisclaim ohne belegbare öffentliche Quelle

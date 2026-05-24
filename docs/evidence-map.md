@@ -1,4 +1,4 @@
-# Evidence Map · Klause/OpenClaw
+# Evidence Map · Klause / OpenClaw
 
 Diese Übersicht fasst zusammen, welche Aussagen öffentlich gezeigt werden und welche Teile bewusst privat bleiben.
 

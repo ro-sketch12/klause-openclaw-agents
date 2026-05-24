@@ -1,4 +1,4 @@
-# Workflow · Klause/OpenClaw
+# Workflow · Klause / OpenClaw
 
 ## Ablauf
 

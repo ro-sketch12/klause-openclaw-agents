@@ -1,6 +1,6 @@
-# Klause/OpenClaw · Kontrollierte Agentenabläufe
+# Klause / OpenClaw
 
-Klause/OpenClaw zeigt ein kontrolliertes Multi-Agenten-Setup für wiederkehrende Produkt-, Recherche-, Content- und Veröffentlichungsabläufe.
+Klause / OpenClaw zeigt ein kontrolliertes Multi-Agenten-Setup für wiederkehrende Produkt-, Recherche-, Content- und Veröffentlichungsabläufe.
 
 Der wichtigste Punkt ist nicht “Agenten machen alles alleine”, sondern: Rollen, Rechte, Queues, Blocker, Reviews und Freigaben müssen zuerst sauber stehen. Sonst wird externe Automatisierung schnell riskant.
 

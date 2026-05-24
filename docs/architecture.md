@@ -1,4 +1,4 @@
-# Architektur · Klause/OpenClaw
+# Architektur · Klause / OpenClaw
 
 Die öffentliche Architektur zeigt die Kontrolllogik. Sie veröffentlicht keine echten Laufzeitdaten, Prompts, Tokens, Accountdetails oder Plattform-Endpunkte.
 
@@ -35,4 +35,3 @@ Originalquellen zeigen einen Etsy-/Marketplace-Kontext mit Orchestrator, Researc
 ## Kernentscheidung
 
 Agenten dürfen Aufgaben vorbereiten. Externe Aktionen brauchen erkennbare Freigabe, ausreichende Konfiguration und Risikoprüfung.
-
