@@ -5,6 +5,8 @@
   "type": "module",
   "description": "Reduced control-gate logic for the Klause / OpenClaw agent workflow.",
   "scripts": {
-    "test": "node --test test/*.test.mjs"
+    "test": "node --test test/*.test.mjs",
+    "public-check": "python3 scripts/check_public_content.py",
+    "verify": "npm test && npm run public-check"
   }
 }

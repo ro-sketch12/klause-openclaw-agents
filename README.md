@@ -36,8 +36,7 @@ Dieses Repo enthält keinen vollständigen Agenten- oder Plattformcode. Der klei
 Lokal prüfen:
 
 ```bash
-npm test
-python3 scripts/check_public_content.py
+npm run verify
 ```
 
 Der Code nutzt nur synthetische Tasks. Nicht enthalten sind Accountdaten, Plattform-APIs, Credentials, Runtime-Logs, Agent-Memory oder echte Listing-/Shop-Daten.
@@ -62,3 +61,7 @@ Der Code nutzt nur synthetische Tasks. Nicht enthalten sind Accountdaten, Plattf
 ## Tech/Tools
 
 Node.js, lokale Agenten-Workflows, JSON-Queues, Status-/Health-Reports, Design-Preview-Logik, IP-/Risk-Guardrails, Smoke-/Readiness-Checks.
+
+## Öffentliche Links
+
+- Portfolio: `https://robert-systems.com`
